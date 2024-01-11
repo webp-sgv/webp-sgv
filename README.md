@@ -2,9 +2,9 @@
 <p align="center">
 	<h2 align="center">Jean Cleidson</h2>
 	<p>
-		Bem-vindo ao meu repositório!
-		Este repositório contém alguns dos meus projetos em JavaScript.
-		Estou animado em compartilhar meu trabalho com você e espero que você encontre algo útil aqui.
+		Bem-vindo ao meu repositório!<br>
+		Este repositório contém alguns dos meus projetos em JavaScript e outras tecnologias.<br>
+		Estou animado em compartilhar meu trabalho e espero que encontre algo útil aqui.
 	</p>
 </p>
 
